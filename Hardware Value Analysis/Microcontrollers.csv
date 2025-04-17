@@ -1,0 +1,21 @@
+Part Number/Name,Input Power,Clock Speed,Memory,ADC Res,I^2C,Cost,# of Cores,PWM Res,Connectivity,Dev Board $,CPU,Notes,Data Sheet,Dev Board Link,,,
+Raspberry Pi 3 Model B ,"5V, 2.5 micro usb ",1.2 GHz,1GB RAM,None,Yes,$35 ,4,?,"WiFi, ethernet",N/A,Broadcom BCM2837,,https://us.rs-online.com/m/d/4252b1ecd92888dbb9d8a39b536e7bf2.pdf,,,,Ideas
+Arduino MKR WAN 1310 ,"5-7V, micro usb",48 MHz,"32KB SRAM, 256KB Flash",12 bit ,Yes,$45 ,1,10 bit,LoRa (radio),N/A,SAMD21 Cortex®-M0+ 32bit low power ARM MCU,,https://docs.arduino.cc/hardware/mkr-wan-1310/#tech-specs,,,,Raspberry pi
+Beaglebone Black ,"5V, 1A, dc connector or USB",1 GHz,"512MB SRAM, 4GB Flash",12 bit,Yes,$50 ,1,16 bit,ethernet,N/A,Sitara AM3358BZCZ100,,https://docs.beagleboard.org/beaglebone-black.pdf,,,,STM32
+ESP32-WROOM-32  x 2,"3-3.6V, 80mA micro USB",80-240 MHz,"520KB SRAM, 448KB Flash",12 bit,Yes,$7-10,2,16 bit,"WiFI, bluetooth",N/A,Xtensa® 32-bit LX6 microprocessor,,https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf,,,,ESP32
+Arduino UNO ,"7-12V, DC jack or USB",16 MHz,"2KB SRAM, 32KB Flash",10 bit,Yes,$15-30,1,8 bit,None,N/A,ATmega328P,,https://docs.arduino.cc/hardware/uno-rev3/,,,,RP2040
+Arduino Nano ,"7-12, USB",16 MHz,"2KB SRAM, 32KB Flash",10 bit,Yes,$10-30,1,8 bit,None,N/A,ATmega328,,https://docs.arduino.cc/hardware/nano/,,,,ATMega 4809
+ESP32 Feather ,5V USB or  4.2/3.7 LiPo Battery,240 MHz,"520 KB SRAM, 4MB Flash",12 bit ,Yes,$19.95 ,2,16 bit,"WiFi, bluetooth",N/A,Tensilica LX6,PWM available on every GPIO pin,https://www.adafruit.com/product/3405,,,,Arduino Zero
+TI C Series TM4C123G LaunchPad ,"4.75-5.25V, micro USB",80 MHz,"32 KB SRAM, 256KB Flash",12 bit ,6,$16.99 ,1,12 bit,CAN Bus,N/A,TM4C123GH6PM,,https://www.ti.com/tool/EK-TM4C123GXL,,,,Arduino Due
+RP2040,"3.3, some pins also 1.8",133 MHz,264 kB + 16MB off chip,"4 Inputs, 12 bit",2,$0.80 ,2,"16Ch, 16 bit",None,$4 - 5,Dual Cortex M0+,"Only USB 1.1, (NO FPU)",RP2040 Datasheet (raspberrypi.com),,,,Beaglebone black
+RP2350,"3.3, some pins also 1.8",150 MHz,"512 kB SRAM, up to 16MB Flash",12 bit ,"Yes, 2",$15 ,2,16 bit,None,N/A,Cortex M33,"newer dev board with upgraded chip, Only USB 1.1",RP2350 Datasheet (raspberrypi.com),,,,Beaglebone AI-64
+NUCLEO-H753ZI,5V,250 MHz,"1MB SRAM, 2MB FLASH","3, 16 bit","Yes, 4",$28 ,2,"16 bit, 2",Ethernet,N/A,STM32H753ZI,FPU,"STM32H753ZI - High-performance and DSP with DP-FPU, Arm Cortex-M7 MCU with 2MBytes of Flash memory, 1MB RAM, 480 MHz CPU, L1 cache, external memory interface, JPEG codec, HW crypto, large set of peripherals - STMicroelectronics","NUCLEO-H753ZI - STM32 Nucleo-144 development board with STM32H753ZI MCU, supports Arduino, ST Zio and morpho connectivity - STMicroelectronics",,,Sparkfun dev boards
+,,,,,,,,,,,,,,Pimoroni Pico Plus 2,,,Teensy 4.0/4.1
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
