@@ -1,0 +1,9 @@
+Part Number,Max Light Level,Wavelengths,Cost,Notes,Datasheet
+TSL2591,"88,000 Lux",400 -1000 nm, $6.95 ,We have a lot of these,"Adafruit TSL2591 High Dynamic Range Digital Light Sensor [STEMMA QT] : ID 1980 : Adafruit Industries, Unique & fun DIY electronics and kits"
+LI-200R,,, $200+ ,"One is on the garage roof, Need to read micro amp output or convert to a voltage",LI-200R Pyranometer | LI-COR Environmental (licor.com)
+VEML6030,"120,000 Lux",500-650 nm, $5.95 ,,SparkFun Ambient Light Sensor - VEML6030 (Qwiic) - SEN-15436 - SparkFun Electronics
+OPT3001,"83,000 Lux",400 - 700 nm, $3.00 ,Needs supporting components,OPT3001 Ambient Light Sensor (ALS) datasheet (Rev. C) (ti.com)
+,,,,,https://spacemath.gsfc.nasa.gov/Sensors/GuideLight.docx
+,,,,,
+,,,,,
+,,,,,
