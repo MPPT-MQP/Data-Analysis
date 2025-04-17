@@ -1,0 +1,5 @@
+Model ,Qg,Vds,Rds,Temp Limit,Current Limits (Ids),Datasheet
+CSD19505KCS 80V N-Channel NexFET,76 nC,80V,2.6m?,175C,100A,https://www.ti.com/lit/ds/symlink/csd19505kcs.pdf?ts=1726046739678&ref_url=https%253A%252F%252Fwww.google.com%252F
+IPB032N10N5,76 nC,100V,3.2m?,175C,166A,https://www.infineon.com/dgdl/Infineon-IPB032N10N5-DS-v02_00-EN.pdf?fileId=5546d4625b3ca4ec015b5c47b25335ca
+IRFZ44,67nC,60V,2.8m?,175C,36A/50A,https://www.vishay.com/docs/91291/irfz44.pdf
+IPP045N10N3G,39nC,100V,4.5m?,175C,137A,https://www.infineon.com/dgdl/Infineon-IPP045N10N3%20G-DS-v02_09-EN.pdf?fileId=5546d4625d5945ed015d9885241104ce
