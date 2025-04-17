@@ -1,0 +1,7 @@
+Company,Part #,Cost ($),Accuracy (+/-C),Output Voltage (mV),Temp Range (C),Voltage Operation (V),Links
+Analog Devices,TMP36,2.63,0.20,750,-55 to 150,2.7 - 5.5,https://cdn.sparkfun.com/datasheets/Sensors/Temp/TMP35_36_37.pdf
+TI,TMP117,4.5,0.10,400,-55 to 155,1.7 - 5.5,https://www.ti.com/lit/ds/symlink/tmp117.pdf?ts=1726734129494&ref_url=https%253A%252F%252Fwww.mouser.de%252F
+TI,TMP116,3.91,0.25,400,-55 to 125,1.9 - 5.5,https://www.ti.com/lit/ds/symlink/tmp116.pdf?ts=1726745864002&ref_url=https%253A%252F%252Fwww.google.com%252F
+STMicroelectronics,STTS751,1.55,0.5,300,-40 to 125,2.25 - 3.6,https://www.st.com/en/mems-and-sensors/stts751.html
+Silicon Labs,Si7050,2.9,0.1,600,-40 to 125,1.9 - 3.6,https://www.silabs.com/documents/public/data-sheets/Si7050-1-3-4-5-A20-1.pdf
+Sparkfun,TMP102,,,,,,
