@@ -1,0 +1,6 @@
+Part Number,Resolution (bits),Voltage Sensing Range (Volts),Cost ($),Supply Voltage (Volts),Reference
+INA226,16,0 to 36 ,~2.84,2.7 to 5.5,https://www.digikey.com/en/product-highlight/t/texas-instruments/ina226-current-shunt-and-power-monitors?utm_adgroup=General&utm_source=bing&utm_medium=cpc&utm_campaign=Dynamic%20Search_EN_RLSA&utm_term=digikey&utm_content=General&utm_id=bi_cmp-384476624_adg-1302921504343623_ad-81432677981988_dat-2333232393680005:aud-807631099:loc-190_dev-c_ext-_prd-&msclkid=861f29cb4b0619a112ed4f305781da50
+LTC2945,12,0 to 80,~11.60,2.7 to 5.9,https://www.digikey.com/en/products/detail/analog-devices-inc/LTC2945HMS-1-PBF/5594250
+ISL28022FUZ,16,0 to 60,~3.02,3 to 5.5,https://www.digikey.com/en/products/detail/renesas-electronics-corporation/ISL28022FUZ/4958369
+LTC4151HMS,12,7 to 80 ,~11.76,7 to 80,https://www.digikey.com/en/products/detail/analog-devices-inc/LTC4151HMS-PBF/2521721
+INA740B,16,0 to 85,0.83,5.5,https://www.ti.com/product/INA740B#product-details
