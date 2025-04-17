@@ -1,0 +1,7 @@
+Part Number,Resolution (bits),Voltage Sensing Range (Volts),Cost ($),Supply Voltage (Volts),Reference,,,,,,
+ADS1115,16, ±0.256 to 6.114,$6.99 ,2 to 5.5,https://www.ti.com/product/ADS1115,,,,,,
+AD7606C,16,"Bipolar single-ended: ±12.5 V, ±10 V, ±6.25 V, ±5 V, ±2.5 V 
+Unipolar single-ended: 0 V to 12.5 V, 0 V to 10 V, 0 V to 5 V 
+Bipolar differential: ±20 V, ±12.5 V, ±10 V, ±5 V ",$52.00 ,1.71 to 5.25 ,AD7606C-16BSTZ Analog Devices Inc. | Integrated Circuits (ICs) | DigiKey,,,,,,
+MCP3425A0T,16,0 to 2.048,$2.48 ,2.7 to 5.5,https://www.digikey.com/en/products/detail/microchip-technology/MCP3425A0T-E-CH/1827893,,,,,,
+LTC2473IDD,16,-0.3 to Vcc + 0.3,$7.25 ,2.7 to 5.5,https://www.digikey.com/en/products/detail/analog-devices-inc./LTC2473IDD%23PBF/2213925?utm_adgroup=Integrated%20Circuits%20%28ICs%29&utm_source=bing&utm_medium=cpc&utm_campaign=Shopping_Supplier_Analog%20Devices_8100_Co-op&utm_term=&utm_content=Integrated%20Circuits%20%28ICs%29&utm_id=bi_cmp-306009171_adg-1309518469551101_ad-81844923757857_pla-4585444531169150_dev-c_ext-_prd-2213925&msclkid=e522beaf5dd1145c7afdd851ac5e995d,,,,,,
