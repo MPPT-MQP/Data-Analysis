@@ -1,0 +1,36 @@
+Model, Cost ,Current SRC,Current SNK,Voltage,Frequency,Configuration / # of FETs,Dead time,Bootstrap Circuit Provided,Notes,Datasheet,,,,
+LM5109BMAX, $1.05 ,1A,1A,90V SW,,2,N/A,No,Need 2 pwm inputs,LM5109B High Voltage 1-A Peak Half-Bridge Gate Driver datasheet (Rev. C) (ti.com),,,,
+LM5106MMX, $1.75 ,1.2A,1.8A,100V SW,,2,Adjust with resistor,No,1 pwm input,LM5106 100-V Half-Bridge Gate Driver With Programmable Dead-Time datasheet (Rev. D),,,,
+LM5108DRCR, $1.18 ,1.6A,2.6A,100V SW,,2,,Diode included,2 pwm inputs,https://www.digikey.com/en/products/detail/texas-instruments/LM5108DRCR/10434822,,,,
+UCC27201DDAR, $2.17 ,3A,3A,120V,,2,,Diode included ,2 pwm inputs ,https://www.digikey.com/en/products/detail/texas-instruments/UCC27201DDAR/1911333,,,,
+MIC4102YM-TR, $2.65 ,2A,3A,100V SW,,2,,Diode included ,Option to disable 1 pwm for asynchronous operation,https://www.digikey.com/en/products/detail/microchip-technology/MIC4102YM-TR/1029791,,,,
+HIP2210FRTZ, $1.49 ,3A,4A,100V SW,,2,Adjust with resistor,Diode included ,1 pwm control ,https://www.digikey.com/en/products/detail/renesas-electronics-corporation/HIP2210FRTZ/18160103,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+Gate Drivers | Power Management (PMIC) | Electronic Components Distributor DigiKey,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,APP NOTES
+,,,,,,,,,,,,,,How to design an efficient non-inverting buck-boost converter
+,,,,,,,,,,,,,,Multimode control for a four?switch buck?boost converter
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,https://www.youtube.com/watch?v=AG9smav1vy4
+,,,,,,,,,,,,,,https://ieeexplore.ieee.org/document/5674983
+,,,,,,,,,,,,,,https://ieeexplore.ieee.org/document/10578244
+,,,,,,,,,,,,,,https://www.ti.com/product/UCC27211#design-tools-simulation
+Four Switch Stuff,,,,,,,,,,,,,,
+IRS2453, $2.43 ,180mA,260mA,600V SW,~20kHz,Full bridge -4,,,"Don't need external boostrap cap
+
+Self regulating without pwm inputs","IRS2453(1)D(S) Datasheet - 600 V full-bridge gate driver IC with oscillator, integrated bootstrap FET, and shutdown (infineon.com)",,,,
+MIC4606, $2.63 ,1A,1A,85V SW,,"""Full bridge"" with  2 seperate pwm inputs",,,"Can have 2 PWM signals for left and right half bridges
+
+External boostrap cap needed",MIC4606-Data-Sheet- (microchip.com),,,,
+HIP4080A, $5.25 ,,,80V ,,Full bridge -4,,,"Available in a DIP package, rated for frequencies up to 1MHz
+
+No bootstrap cap needed",https://www.renesas.com/en/products/power-power-management/fet-motor-drivers/half-bridge-fet-drivers/hip4080a-80v25a-peak-high-frequency-full-bridge-fet-driver-charge-pump-and-input-comparators,,,,
+HIP4081A, $7.47 ,,,80V ,,Full bridge -4,,,,https://www.renesas.com/en/products/power-power-management/fet-motor-drivers/half-bridge-fet-drivers/hip4081a-80v25a-peak-high-frequency-full-bridge-fet-driver-charge-pump-and-independent-control-inputs?partno=HIP4081AIBZ,,,,
+SM72295, $4.47 ,,,100V,,Full bridge -4,,,"Example circuit with PV panel and DC-DC converter shown in typical application circuit
+
+External boostrap caps required",https://www.ti.com/lit/ds/symlink/sm72295.pdf?ts=1726192177889&ref_url=https%253A%252F%252Fwww.mouser.com%252F,,,,
